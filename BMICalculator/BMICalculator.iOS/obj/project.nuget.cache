@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BwppRtTIi8OgSG3Eblump6IOSRFE7lqadD4fSpxzrHqrmuqLjGE4JmzKWZhahOHTNUe1VVqB/dO9i+b+dmD38w==",
+  "success": true,
+  "projectFilePath": "D:\\WCTC\\MobileApplications\\BMICalculator\\BMICalculator\\BMICalculator\\BMICalculator.iOS\\BMICalculator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nickg\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
